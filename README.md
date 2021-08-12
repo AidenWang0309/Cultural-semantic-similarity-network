@@ -1,2 +1,4 @@
 # Cultural-semantic-similarity-network
-The constrction and analysis algorithm of cultural semantic similarity network.
+### Overview
+This github project provides readers 1 dataset and XX codes, which are **Cultural Eigenvectors of Chinese cities**, **Result2TableV2.py**.  
+
